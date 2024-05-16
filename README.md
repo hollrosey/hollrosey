@@ -1,4 +1,4 @@
-![github-readme](https://github.com/hollrosey/hollrosey/assets/141242889/539c9738-f70d-45a5-b250-272c4bfa4e39)
+![readme](https://github.com/hollrosey/hollrosey/assets/141242889/4ff9fe34-004d-4038-88a7-0b0fb3cca7f1)
 <br/>
 <h2>About me:</h2> 
 <p>Test here</p>
