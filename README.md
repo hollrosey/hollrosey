@@ -6,7 +6,7 @@
 <p>🎨 Fuelled by a lifelong love for creativity</p>
 <p>🌱 I am currently learning TypeScript, Next.js and React</p>
 <p>👯 I’m looking to collaborate on projects that combine creativity and technology</p>
-<p>💼 Connect with me on LinkedIn!</p>
+<p>💼 Connect with me on <a href="www.linkedin.com/in/hollrosey">LinkedIn</a>!</p>
 <br/>  
 <h2>Languages and Tools:</h2>
   <p>
