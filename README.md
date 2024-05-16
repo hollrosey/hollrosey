@@ -1,4 +1,6 @@
 ![github-readme](https://github.com/hollrosey/hollrosey/assets/141242889/539c9738-f70d-45a5-b250-272c4bfa4e39)
+<br/>
+<p>
 🚀 I’m a <a href="https://www.schoolofcode.co.uk/">School of Code</a> bootcamper from Cohort 16!
 <br/>
 🌱 I am currently learning TypeScript, Next.js and React.
@@ -8,7 +10,7 @@
 📫 Get in touch: hollyrmassey@yahoo.co.uk
 <br/>
 💼 Connect with me on <a href="www.linkedin.com/in/holly-massey-6114a92a6">LinkedIn</a>!
-
+</p>
 <br>
 <br>
 <p align="center">
