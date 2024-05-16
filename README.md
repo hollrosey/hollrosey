@@ -2,6 +2,10 @@
 <br/>
 <h2>About me:</h2> 
 <p>Test here</p>
+<p>My Tech Stack: 
+  <br/> 
+HTML | CSS | JavaScript | TypeScript | React | Next.js | Express.js | Node.js | SGL | Postman | Figma | Canva 
+</p>
 <p>
 🚀 I’m a <a href="https://www.schoolofcode.co.uk/">School of Code</a> bootcamper from Cohort 16!
 <br/>
