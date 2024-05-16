@@ -1,7 +1,6 @@
 ![readme](https://github.com/hollrosey/hollrosey/assets/141242889/4ff9fe34-004d-4038-88a7-0b0fb3cca7f1)
 <br/>
 <h1>👋Hi, I'm Holly!</h1>
-<br/>
 <h2>About me:</h2> 
 <p>🚀 I’m a <a href="https://www.schoolofcode.co.uk/">School of Code</a> bootcamper from Cohort 16!</p>
 <p>🎨 Fuelled by a lifelong love for creativity</p>
