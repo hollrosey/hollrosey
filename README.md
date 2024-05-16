@@ -1,8 +1,14 @@
 ### Hey there! 👋
 
-  - 😄 My pronouns are she/her
-  - 🌱 I am currently learning JavaScript, TypeScript and SQL.
-  - ✨ I am a bootcamper at School of Code, cohort 16!
+🚀 I’m a <a href="https://www.schoolofcode.co.uk/">School of Code</a> bootcamper from Cohort 16!
+<br/>
+🌱 I am currently learning TypeScript, Next.js and React.
+<br/>
+👯 I’m looking to collaborate on 
+<br/>
+📫 Get in touch: hollyrmassey@yahoo.co.uk
+<br/>
+💼 Connect with me on <a href="www.linkedin.com/in/holly-massey-6114a92a6">LinkedIn</a>!
 
 <br>
 <br>
