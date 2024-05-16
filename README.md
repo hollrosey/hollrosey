@@ -1,3 +1,4 @@
+![github-readme](https://github.com/hollrosey/hollrosey/assets/141242889/539c9738-f70d-45a5-b250-272c4bfa4e39)
 🚀 I’m a <a href="https://www.schoolofcode.co.uk/">School of Code</a> bootcamper from Cohort 16!
 <br/>
 🌱 I am currently learning TypeScript, Next.js and React.
