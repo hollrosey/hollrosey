@@ -1,5 +1,3 @@
-### Hey there! 👋
-
 🚀 I’m a <a href="https://www.schoolofcode.co.uk/">School of Code</a> bootcamper from Cohort 16!
 <br/>
 🌱 I am currently learning TypeScript, Next.js and React.
