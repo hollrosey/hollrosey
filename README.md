@@ -23,10 +23,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" style="width: 50px; height: auto;" />
   </p>
   <br/>
-
-<br/>
-<h2>GitHub Stats:</h2> 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hollrosey&" />
-<img src="https://github-readme-stats.vercel.app/api?username=hollrosey&show_icons=true&locale=en"/>
-</p>
